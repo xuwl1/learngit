@@ -1,2 +1,2 @@
-git is a version control system
-git si free softsare
+git is a distributed version control system
+git is free softsare
